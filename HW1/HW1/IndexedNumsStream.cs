@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace CS420
+namespace CS422
 {
 	public class IndexedNumStream : Stream
 	{
