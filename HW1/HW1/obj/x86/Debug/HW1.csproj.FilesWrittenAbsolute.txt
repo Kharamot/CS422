@@ -1,0 +1,1 @@
+/home/kameron/CS422/HW1/HW1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
